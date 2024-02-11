@@ -1,12 +1,13 @@
-+*TITULO BONITO*+
-GIT nuestro
-GIT nuestro que est s en los repos
-Comprimidos sean tus commits
-Venga a nosotros tu log
-En el local como en el remote
-Danos hoy nuestro pull de cada d¡a
-Perdona nuestros conflictos
-Como tambi‚n perdonamos los de otros geeks
-No nos dejes caer en detached HEAD
-y l¡branos de SVN
++*PRETTY TITLE*+
+
+Our GIT who art in repos
+Compressed be thy commits
+Thy log come
+Thy will be done
+On local as it is in remote
+Give us this day our daily pull
+Forgive our conflicts
+As we forgive those of other geeks
+Lead us not into detached HEAD
+But deliver us from SVN
 GIT commit --amend
